@@ -25,7 +25,7 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
 
  - [Automatic Coding for Digital Computers](http://www.bitsavers.org/magazines/Computers_And_Automation/195509.pdf) 
  
-	 Grace elegantly describes the job of a coder, an analyst, and a programmer (different specializations at the time), and the limitations of the computer: __The computer is an extremely fast moron.__.  Scroll to page 21 for her article.
+	 Grace elegantly describes the job of a coder, an analyst, and a programmer (different specializations at the time), and the limitations of the computer: "_The computer is an extremely fast moron._".  Scroll to page 21 for her article.
 	 
  - [Automatic Programming: The A 2 Compiler System pt. 2](http://www.bitsavers.org/magazines/Computers_And_Automation/195510.pdf)
  
