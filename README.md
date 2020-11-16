@@ -1,4 +1,4 @@
-# AmazingGrace
+# Amazin' Grace
 Notes and inspiration from and about Grace Hopper, quite literally the mother of all hackers.
 
 
@@ -10,11 +10,6 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
  - Membership in the reserves (on a weight exemption), and subsequent membership of WAVES (Women Accepted for Volunteer Emergency Service).  WAVE officers were trained at Smith college, enlisted trained at Oklahoma A&M.
  - Assignment to Harvard Computation Project and work on the Harvard Mk I
  - Employment at Eckert-Mauchley in 1949, joining the UNIVAC team.  Getting computers mansplained to her while she developed the first english programming language linker, known as the A Compiler.
-
-## Pseudonyms
-
- - Amazin' Grace
- - Grandma COBOL
 
 ## Facts
 
