@@ -10,6 +10,20 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
  - Membership in the reserves (on a weight exemption), and subsequent membership of WAVES (Women Accepted for Volunteer Emergency Service).  WAVE officers were trained at Smith college, enlisted trained at Oklahoma A&M.
  - Assignment to Harvard Computation Project and work on the Harvard Mk I
  - Employment at Eckert-Mauchley in 1949, joining the UNIVAC team.  Getting computers mansplained to her while she developed the first english programming language linker, known as the A Compiler.
+ 
+### Eckert-Mauchley and the UNIVAC
+
+ - Creation of the first compiler (which translated math symbols to binary)
+ - B-0 compiler, aka FLOW-MATIC - designed to translate automatable business tasks like payroll and billing into machine code.  Hopper and her staff teach UNIVACs I + II 20 english statements.  Her first paper on the compiler was in 1952, it would be three years before her ideas gain acceptance.
+ - One of two technical advisers to the CODASYL executive committee to define COBOL, which is partially based on ideas from FLOW-MATIC.  The first COBOL spec is published in 1959
+ - Work on the standardization and validation of compilers - these were the prototype for international standards for programming languages
+ 
+
+### Current Events
+
+ - Grace hopper celebration presented by [anitaB](https://ghc.anitab.org/) (currently in session as of 11/17/20)
+ 
+ 	Talks and conferences about advancing women in computing.
 
 ## Facts
 
