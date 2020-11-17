@@ -9,7 +9,7 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
  - attempt to enter the navy and denial based on age (too old) height-to-weight, and value (to the war effort) as a mathematician at vasser
  - Membership in the reserves (on a weight exemption), and subsequent membership of WAVES (Women Accepted for Volunteer Emergency Service).  WAVE officers were trained at Smith college, enlisted trained at Oklahoma A&M.
  - Assignment to Harvard Computation Project and work on the Harvard Mk I
- - Employment at Eckert-Mauchley in 1949, joining the UNIVAC team.  Getting computers mansplained to her while she developed the first english programming language linker, known as the A Compiler.
+
  
 ### Eckert-Mauchley and the UNIVAC
 
