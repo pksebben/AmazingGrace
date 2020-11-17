@@ -27,7 +27,7 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
 
 ## Facts
 
-- Grace was posthumously awarded the _Presidentail Medal of Freedom_ by Barack Obama.  A civilian award (if yet the highest), despite her status as a Rear Admiral.  We think she got shortchanged.
+- Grace was posthumously awarded the _Presidentail Medal of Freedom_ by Barack Obama.  She had also been granted the _Distinguished Service Medal_.  The two are the highest honors available for civilians and non-combatant service personnell, respectively.  We think she got shortchanged anyhow. 
 - Grace is the reason you don't have to be a mathematician to program!  She was the first to think of machine language as abstractible to english, and had to hold on to a working design of a linker while she waited for the rest of the world to comprehend the power behind the concept.
 - Her team for the Harvard Mark II may be responsible for the term "debugging" after finding a moth in a relay.
 - She correctly predicted the miniaturization of the processor, often using a foot-long wire to display the distance light traveled in a nanosecond
