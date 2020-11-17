@@ -38,6 +38,8 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
  - [Keynote Address for ?](https://dl.acm.org/doi/pdf/10.1145/800025.1198341)
  
 	 I wasn't able to figure out where this keynote was given.  She sort of tears the establishment a new one re: their reticence to use english to program.  It's a worthy read.
+	 
+ - [Smithsonian Archive of Grace's technical writing](https://sova.si.edu/details/NMAH.AC.0324?s=0&n=10&t=C&q=&i=0)
 	
 ## Sources
 
