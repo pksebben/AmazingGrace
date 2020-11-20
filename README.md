@@ -54,6 +54,10 @@ Notes and inspiration from and about Grace Hopper, quite literally the mother of
 	 I wasn't able to figure out where this keynote was given.  She sort of tears the establishment a new one re: their reticence to use english to program.  It's a worthy read.
 	 
  - [Smithsonian Archive of Grace's technical writing](https://sova.si.edu/details/NMAH.AC.0324?s=0&n=10&t=C&q=&i=0)
+ 
+ - [New Types of Irreducibility Criteria](https://math.yale.edu/sites/default/files/grace_murray_hopper_thesis_0.pdf)
+ 
+ 	This is Grace's thesis. It's math-dense, but provides insight into the mind that eventually gave us the foundations for the abstractions we use in programming today.
 	
 ## Sources
 
